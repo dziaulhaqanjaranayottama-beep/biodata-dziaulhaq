@@ -26,7 +26,7 @@ $hobi = [
 ];
 
 $skills = [
-    "HTML" => 875,
+    "HTML" => 65,
     "CSS" => 50,
     "JavaScript" => 50,
     "PHP" => 50,
@@ -199,4 +199,5 @@ Rencana yang akan aku tempuh adalah belajar dengan giat, memperbanyak pengalaman
 <script src="script.js"></script>
 
 </body>
+
 </html>
